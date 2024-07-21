@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../pro"
+		},
+		{
+			"path": "../02-carada"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "02-carada"
+	}
+}
